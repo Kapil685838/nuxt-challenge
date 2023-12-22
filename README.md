@@ -69,18 +69,18 @@
 
 ## API
 ### Components
-- [ ] <ClientOnly>
-- [ ] <NuxtClientFallback>
-- [ ] <NuxtPage>
-- [ ] <NuxtLayout>
-- [ ] <NuxtLink>
-- [ ] <NuxtLoadingIndicator>
-- [ ] <NuxtErrorBoundary>
-- [ ] <NuxtWelcome>
-- [ ] <NuxtIsland>
-- [ ] <NuxtImg>
-- [ ] <NuxtPicture>
-- [ ] <Teleport>
+- [ ] &lt;ClientOnly&gt;
+- [ ] &lt;NuxtClientFallback&gt;
+- [ ] &lt;NuxtPage&gt;
+- [ ] &lt;NuxtLayout&gt;
+- [ ] &lt;NuxtLink&gt;
+- [ ] &lt;NuxtLoadingIndicator&gt;
+- [ ] &lt;NuxtErrorBoundary&gt;
+- [ ] &lt;NuxtWelcome&gt;
+- [ ] &lt;NuxtIsland&gt;
+- [ ] &lt;NuxtImg&gt;
+- [ ] &lt;NuxtPicture&gt;
+- [ ] &lt;Teleport&gt;
 
 ### Composables
 - [ ] useAppConfig
