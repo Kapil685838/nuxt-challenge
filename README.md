@@ -136,13 +136,77 @@
 
 ### Commands
 - [ ] nuxi add
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
+- [ ] nuxi analyze
+- [ ] nuxi build-module
+- [ ] nuxi build
+- [ ] nuxi cleanup
+- [ ] nuxi dev
+- [ ] nuxi devtools
+- [ ] nuxi generate
+- [ ] nuxi info
+- [ ] nuxi init
+- [ ] nuxi module
+- [ ] nuxi prepare
+- [ ] nuxi preview
+- [ ] nuxi typecheck
+- [ ] nuxi upgrade
+
+### Nuxt Kit
+- [ ] Modules
+- [ ] Programmatic Usage
+- [ ] Compatibility
+- [ ] Auto-imports
+- [ ] Components
+- [ ] Context
+- [ ] Pages
+- [ ] Layout
+- [ ] Plugins
+- [ ] Templates
+- [ ] Nitro
+- [ ] Resolving
+- [ ] Logging
+- [ ] Builder
+- [ ] Examples
+
+### Advanced
+- [ ] Lifecycle Hooks
+- [ ] Import meta
+
+### Nuxt Configuration
+
+## Examples
+### Hello World
+
+### Features
+- [ ] Auto Imports
+- [ ] Data Fetching
+- [ ] State Management
+- [ ] Meta Tags
+- [ ] Layouts
+
+### Routing
+- [ ] Middleware
+- [ ] Pages
+- [ ] Universal Router
+
+### Advanced
+- [ ] Layers
+- [ ] Error Handling
+- [ ] JSX / TSX
+- [ ] Locale
+- [ ] Module Extend Pages
+- [ ] Teleport
+- [ ] Testing
+- [ ] useCookie
+- [ ] Use Custom Fetch Composable
+
+### Experimental
+- [ ] WASM
+
+## Community
+- [ ] Getting Help
+- [ ] Reporting Bugs
+- [ ] Contribution
+- [ ] Framework
+- [ ] Roadmap
+- [ ] Releases
