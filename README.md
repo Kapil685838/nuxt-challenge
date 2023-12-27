@@ -5,8 +5,8 @@
 - [x] [Installation](https://nuxt.com/docs/getting-started/installation)
 - [x] [Configuration](https://nuxt.com/docs/getting-started/configuration)
 - [x] [Views](https://nuxt.com/docs/getting-started/views)
-- [ ] Assets
-- [ ] Styling
+- [x] [Assets](https://nuxt.com/docs/getting-started/assets)
+- [ ] [Styling](https://nuxt.com/docs/getting-started/styling)
 - [ ] Routing
 - [ ] SEO and Meta
 - [ ] Transitions

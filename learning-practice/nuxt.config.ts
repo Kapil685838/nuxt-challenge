@@ -28,6 +28,13 @@ export default defineNuxtConfig({
     },
     vueJsx: {
       mergeProps: true
+    },
+    css: {
+      preprocessorOptions: {
+        scss: {
+          additionalData: '@use "~/assets/_colors.scss" as *;'
+        }
+      }
     }
   },
   // With webpack
