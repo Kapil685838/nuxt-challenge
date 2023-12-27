@@ -2,8 +2,8 @@
 
 ## Get Started
 - [x] [Introduction](https://nuxt.com/docs/getting-started/introduction)
-- [ ] Installation
-- [ ] Configuration
+- [x] [Installation](https://nuxt.com/docs/getting-started/installation)
+- [x] [Configuration](https://nuxt.com/docs/getting-started/configuration)
 - [ ] Views
 - [ ] Assets
 - [ ] Styling
