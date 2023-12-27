@@ -4,7 +4,7 @@
 - [x] [Introduction](https://nuxt.com/docs/getting-started/introduction)
 - [x] [Installation](https://nuxt.com/docs/getting-started/installation)
 - [x] [Configuration](https://nuxt.com/docs/getting-started/configuration)
-- [ ] Views
+- [x] [Views](https://nuxt.com/docs/getting-started/views)
 - [ ] Assets
 - [ ] Styling
 - [ ] Routing
