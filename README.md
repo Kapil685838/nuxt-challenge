@@ -1,7 +1,7 @@
 # Nuxt Challenge
 
 ## Get Started
-- [ ] Introduction
+- [x] [Introduction](https://nuxt.com/docs/getting-started/introduction)
 - [ ] Installation
 - [ ] Configuration
 - [ ] Views
