@@ -2,11 +2,11 @@
 
 ## Get Started
 - [x] [Introduction](https://nuxt.com/docs/getting-started/introduction)
-- [ ] Installation
-- [ ] Configuration
-- [ ] Views
-- [ ] Assets
-- [ ] Styling
+- [x] [Installation](https://nuxt.com/docs/getting-started/installation)
+- [x] [Configuration](https://nuxt.com/docs/getting-started/configuration)
+- [x] [Views](https://nuxt.com/docs/getting-started/views)
+- [x] [Assets](https://nuxt.com/docs/getting-started/assets)
+- [ ] [Styling](https://nuxt.com/docs/getting-started/styling)
 - [ ] Routing
 - [ ] SEO and Meta
 - [ ] Transitions
